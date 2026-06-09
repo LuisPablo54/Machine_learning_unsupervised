@@ -1,0 +1,12 @@
+data/
+Proyecto Emociones/
+archive(1)/
+models/
+.venv
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.csv
