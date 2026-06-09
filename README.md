@@ -9,21 +9,6 @@
 
 ---
 
-## Contenido del repositorio
-
-```
-ml2/
-├── parcial_1/
-│   ├── ML2_P1_Resumen.ipynb        # Resumen ejecutable del primer parcial
-│   └── apuntes/                    # Apuntes de clase (PDF)
-├── parcial_2/                      # Redes convolucionales y recurrentes
-├── parcial_3/                      # Compresión de redes y Aprendizaje por refuerzo
-├── proyecto_final/                 # Reporte y código del proyecto final
-└── README.md
-```
-
----
-
 ## Temario
 
 ### Primer parcial — Fundamentos de redes neuronales
