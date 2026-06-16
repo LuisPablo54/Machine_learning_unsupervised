@@ -10,3 +10,5 @@ models/
 *.pkl
 *.joblib
 *.csv
+img/
+kaggle/
