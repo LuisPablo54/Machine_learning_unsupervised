@@ -12,3 +12,4 @@ models/
 *.csv
 img/
 kaggle/
+data/
